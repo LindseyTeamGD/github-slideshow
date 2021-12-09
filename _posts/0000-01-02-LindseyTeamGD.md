@@ -1,5 +1,5 @@
 layout: slide
-title: "Welcome to our second slide!"
+#title: "Welcome to our second slide!"#
 ---
-Your text
-Use the left arrow to go back!
+I think it is very important to learn GITHub in this new Technologically enhanced world.
+##Use the left arrow to go back!##
